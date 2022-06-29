@@ -1,0 +1,4 @@
+venv/*
+.idea/*
+newflat.pdf
+out.pdf
